@@ -1,0 +1,10 @@
+﻿  hw3.cpp
+F:\CSCI420\Assignment3\hw3-starterCode-vs2022\hw3-starterCode\hw3-starterCode\hw3.cpp(742,47): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+F:\CSCI420\Assignment3\hw3-starterCode-vs2022\hw3-starterCode\hw3-starterCode\hw3.cpp(742,38): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+F:\CSCI420\Assignment3\hw3-starterCode-vs2022\hw3-starterCode\hw3-starterCode\hw3.cpp(742,29): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 373 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hw3.vcxproj -> F:\CSCI420\Assignment3\hw3-starterCode-vs2022\hw3-starterCode\hw3-starterCode\Bin\Release\hw3.exe
